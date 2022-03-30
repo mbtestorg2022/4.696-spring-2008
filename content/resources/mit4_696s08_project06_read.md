@@ -5,6 +5,7 @@ description: "Handout accompanying a student final presentation on monastic rock
   \ CE. Contains a list of buildings and sites, key terms, and and suggested readings."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/ec655f0cd97c53935322b378a6abbd5e_MIT4_696s08_project06_read.pdf
 file_type: application/pdf
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: The Temple in the Cave - Slide List and Readings
 uid: ec655f0c-d97c-5393-5322-b378a6abbd5e

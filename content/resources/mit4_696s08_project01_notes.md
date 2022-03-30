@@ -4,6 +4,7 @@ description: Notes accompanying a student final presentation on global port citi
   circa 1300.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/b5e7d2591d88461446372cd5a7a674b6_MIT4_696s08_project01_notes.pdf
 file_type: application/pdf
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: Global Port Cities - Notes
 uid: b5e7d259-1d88-4614-4637-2cd5a7a674b6
